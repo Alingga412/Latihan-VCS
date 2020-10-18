@@ -95,7 +95,8 @@ $ cd latihan1``
 * Pada laman github, klik tombol start a project, atau
 * Dari menu (icon +) klik New Repository
 
-![Screenshot (39)](https://user-images.githubusercontent.com/66506609/95936476-da95bd00-0dff-11eb-826d-c7b34e2c45fc.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/73011532/96366881-afe79380-1174-11eb-9e15-dccc5384516f.png)
+
 
 
 ### Membuat repository server
