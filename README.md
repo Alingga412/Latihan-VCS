@@ -126,7 +126,7 @@ $ cd latihan1``
 * Buka laman github.com, arahkan pada repositorinya.
 * Maka perubahan akan terlihat pada laman tersebut.
 
-![Screenshot (41)](https://user-images.githubusercontent.com/66506609/95936958-eafa6780-0e00-11eb-85fa-262b7f92ef40.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/73011532/96367010-706d7700-1175-11eb-98cc-1d9fd8763123.png)
 
 
 ### Clone Repository
@@ -134,7 +134,7 @@ $ cd latihan1``
 * Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
 * Untuk melakukan cloning, gunakan perintah `git clone [url]`
 
-![Screenshot (59)](https://user-images.githubusercontent.com/66506609/96254417-76c9ea80-0fdf-11eb-8af2-15adba4f4c33.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/73011532/96367032-97c44400-1175-11eb-800b-0de30ae52798.png)
 
 ### Kegunaan file README.md
 
