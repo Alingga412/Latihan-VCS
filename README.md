@@ -2,9 +2,9 @@
 ## Operator pada python
 ***
 ## Profil
-__Nama : Reza Riyaldi Irawan__
+__Nama : Alingga Reandito__
 
-__NIM : 312010284__
+__NIM : 312010276__
 
 __Kelas : TI.20.A.2__
 
